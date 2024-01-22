@@ -11,6 +11,7 @@ const Navbar = () => {
                 <li><a href="#">Home</a></li>
                 <li><a href="#">MyCart</a></li>
                 <li><a href="#">Digital Market</a></li>
+                <li><a href="#">Contact Us</a></li>
                 <li><a href="#">Login</a></li>
             </ul>
         </nav>
