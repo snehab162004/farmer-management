@@ -1,11 +1,11 @@
 import React from "react";
-import './section.css'
+import './Hero.css'
 
-const Section = () => {
+const Hero = () => {
     return (
         <div className="container">
-            <img src="src/components/Main/farming.jpg" 
-            className="main-image" 
+            <img src="src/components/Hero/farming.jpg" 
+            className="hero-image" 
             alt="farming-image"/>
             <div className="container-description">
                 <h1>Welcome to AgroCulture</h1>
@@ -19,4 +19,4 @@ const Section = () => {
 }
 
 
-export default Section;
+export default Hero;
